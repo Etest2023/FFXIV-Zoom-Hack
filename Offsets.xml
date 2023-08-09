@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Root>
   <DX11>
-    <StructureAddress>20BCA10</StructureAddress>
+    <StructureAddress>20BFC90</StructureAddress>
     <ZoomCurrent>114</ZoomCurrent>
     <ZoomMax>11c</ZoomMax>
     <FovCurrent>120</FovCurrent>
     <FovMax>128</FovMax>
   </DX11>
-  <LastUpdate>2023.07.13 - patch 6.35</LastUpdate>
+  <LastUpdate>2023.07.22 - patch 6.38</LastUpdate>
 </Root>
